@@ -18,5 +18,5 @@ The primary objective is to build a well-organized HTML structure for the produc
 - **Responsive Design:** The website layout adjusts dynamically to provide an optimal viewing experience on various devices.
 
 ## Getting Started
-To view the landing page, simply open [index.html](https://github.com/Prithvirajg17/Epic-Gears-E-Commerce-website-/blob/main/index.html).file
+To view the landing page, simply open [index.html](https://github.com/Prithvirajg17/Epic-Gears-E-Commerce-website-/blob/main/index.html).file in Browser or in VSCode
 
